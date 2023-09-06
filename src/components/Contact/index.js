@@ -25,9 +25,6 @@ const Contact = () => {
                         />
                         </h1>
                         <p>
-                          My name is Sparsh Chandra.
-                        </p>
-                        <p>
 
                         I am currently seeking opportunities that align with my skills, experiences, and career aspirations. 
                         If you have any positions that you believe would be a good fit, or if you'd simply like to connect and discuss potential opportunities, I would be delighted to hear from you.
