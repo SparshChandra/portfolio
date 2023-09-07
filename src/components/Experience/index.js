@@ -30,6 +30,22 @@ const Experience = () => {
      className="vertical-timeline-element--work"
      contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
      contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+     date="October 2022 - December 2022"
+     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    
+    
+  >
+    <h3 className="vertical-timeline-element-title">Stevens Institute of Technology</h3>
+    <h4 className="vertical-timeline-element-subtitle">Teaching Assistant - Strategic Perspective of Project Management</h4>
+    <h5 className="vertical-timeline-element-subtitle">Hoboken, NJ</h5>
+    <p>
+      Mentoring, Project Management, Scrum, Smartsheets, Gant Charts
+    </p>
+  </VerticalTimelineElement>
+  <VerticalTimelineElement
+     className="vertical-timeline-element--work"
+     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+     contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
      date="September 2022 - December 2022"
      iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     
@@ -40,6 +56,22 @@ const Experience = () => {
     <h5 className="vertical-timeline-element-subtitle">Hoboken, NJ</h5>
     <p>
       Mentoring, Data Analytics, Data Extraction, Interactive Dashboards, SEO Project Support
+    </p>
+  </VerticalTimelineElement>
+  <VerticalTimelineElement
+     className="vertical-timeline-element--work"
+     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+     contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+     date="August 2022 - May 2023"
+     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    
+    
+  >
+    <h3 className="vertical-timeline-element-title">Business Intelligence and Analytics Club - Stevens Institute of Technology</h3>
+    <h4 className="vertical-timeline-element-subtitle">Tableau Mentor</h4>
+    <h5 className="vertical-timeline-element-subtitle">Hoboken, NJ</h5>
+    <p>
+      Mentoring, Data Visualization, Data Cleaning, Tableau Dashboards, MS Excel - Pivot Table, VBA, Macros, MS Access, SQL
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -82,8 +114,6 @@ const Experience = () => {
     such as JavaScript, HTML, CSS and Python in an agile setting
     </p>
   </VerticalTimelineElement>
-  <VerticalTimelineElement
-  />
 </VerticalTimeline>
 </div>
 
