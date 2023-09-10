@@ -25,6 +25,7 @@
     "react-timeline-components": "^1.0.9",
     "react-timelines": "^2.6.1",
     "react-vertical-timeline-component": "^3.6.0",
+    "rsuite": "^5.39.0",
     "sass": "^1.66.1",
     "scrollbar": "^0.1.12",
     "web-vitals": "^2.1.4"

@@ -84,6 +84,12 @@
             }
         }
 
+        a.education-link {
+            &:after {
+                content: 'EDUCATION';
+            }
+        }
+
         a.experience-link {
             &:after {
                 content: 'EXPERIENCE';

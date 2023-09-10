@@ -3,7 +3,7 @@ import './index.scss'
 import LogoS from '../../assets/images/logo-s.png'
 //import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope, faHome, faRocket, faUser } from '@fortawesome/free-solid-svg-icons'
+import { fa6, faAddressCard, faEnvelope, faHome, faRocket, faSchool, faUser } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
@@ -25,6 +25,14 @@ const Sidebar = () => (
               to="/about"
             >
                 <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
+            </NavLink>
+            <NavLink 
+              exact="true" 
+              activeclassname="active" 
+              className="education-link" 
+              to="/education"
+              >
+                <FontAwesomeIcon icon={faSchool} color="#4d4d4e" />
             </NavLink>
             <NavLink 
               exact="true" 
@@ -60,6 +68,15 @@ const Sidebar = () => (
                   href='https://github.com/SparshChandra'
                 >
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
+                </a>
+            </li>
+            <li>
+            <a 
+                  target="_blank" 
+                  rel='noreferrer' 
+                  href='https://sccontact.com/'
+                >
+                    <FontAwesomeIcon icon={faAddressCard} color="#4d4d4e" />
                 </a>
             </li>
             <li>
