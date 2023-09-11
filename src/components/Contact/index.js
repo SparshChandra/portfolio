@@ -12,7 +12,7 @@ const Contact = () => {
        setTimeout(() => {
         setLetterClass('text-animate-hover');
       }, 3000);
-    }, [setTimeout]);
+    }, []);
 
     const sendEmail = (e) => {
       e.preventDefault()
