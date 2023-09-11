@@ -118,7 +118,7 @@ export const Home = () => {
           <br />
           Data Enthusiast
         </h1>
-        <h2>Certified ScrumMaster / Analyst / Consultant / Engineer</h2>
+        <h2><a className="links" href='https://bcert.me/sqhwbfjut'>Certified ScrumMaster </a> / <a className="links2" href='https://www.sololearn.com/Certificate/CT-8LQ5DOFV/png'> Analyst </a>/ Consultant / Engineer</h2>
         <Link to="/Contact" className='flat-button'>HIRE ME</Link>
       </div>
        <Logo />
