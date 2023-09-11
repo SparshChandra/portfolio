@@ -119,7 +119,7 @@ export const Home = () => {
           Data Enthusiast
         </h1>
         <h2>Certified ScrumMaster / Analyst / Consultant / Engineer</h2>
-        <Link to="/Contact" className='flat-button'>CONTACT ME</Link>
+        <Link to="/Contact" className='flat-button'>HIRE ME</Link>
       </div>
        <Logo />
     </div>
