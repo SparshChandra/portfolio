@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "cover": "/projects/1/one.png", 
+            "title": "Analysis of Covid-19 impact on USA States",
+            "description": "Tableau, Excel, Pivot Table, T-test Analysis",
+            "url": "https://github.com/SparshChandra/Project_Covid19-effects-on-USA-States"
+        },
+        {
+            "cover": "/projects/1/two.png", 
+            "title": "User Application",
+            "description": "Javascript, HTML 5, CSS, Modal Form",
+            "url": "https://github.com/SparshChandra/User-application"
+        },
+        {
+            "cover": "/projects/1/four.png", 
+            "title": "Exploratory Data Analysis, Categorizing each complaint component using Machine Learning Algorithms",
+            "description": "Python, Jupyter Notebook, Github, EDA, Text Preprocessing, TF-IDF Vectorization, Linear SVC, Logistic Regression",
+            "url": "https://github.com/SparshChandra/EDA-Project_End-User-Grievances"
+        },
+        {
+            "cover": "/projects/1/three.png", 
+            "title": "Information Technological strategies for the implementation of AI, NLP and Cloud Technologies using different tools and Ideas ",
+            "description": "Github, IT Governance, Corporate Strategy, Business Strategy, Service Unit Strategy, Artificial Intelligence, NLP and Cloud",
+            "url": "https://github.com/SparshChandra/Information_Technological_Strategies"
+        }
+    ]
+}
